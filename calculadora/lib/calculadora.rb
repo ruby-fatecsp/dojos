@@ -13,7 +13,7 @@ class Calculadora
 	end
 
 	def subtrai
-	  valores[0]-valores[1]
+	  valores[0] - valores[1]
 	end
 
 	def multiplica

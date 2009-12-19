@@ -1,7 +1,7 @@
-require 'Calculadora'
+require 'lib/calculadora'
 require 'test/unit'
 
-class CalculadoraTest < Test::Unit::TestCase
+class TestCalculadora < Test::Unit::TestCase
 	#Testa o metodo soma com os valores 1, 2
 	def test_soma_1_2
 		assert_equal(3, Calculadora.new(1,2).soma)
