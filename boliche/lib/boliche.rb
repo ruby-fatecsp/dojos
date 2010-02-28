@@ -26,6 +26,7 @@ class Boliche
     false
   end
   
+  # Será Strike somente quando a primeira jogada for igual a 10 pinos
   def strike?(frame)
     return true if frame[0] == 10
     false
