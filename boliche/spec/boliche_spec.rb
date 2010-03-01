@@ -112,6 +112,10 @@ descreva Boliche do
     exemplo "deve calcular o strike somando as duas proximas jogadas" do
       Boliche.new([[10],[3,5],[3,3]]).calcule_o_strike(0,0).deve ser_igual_a(28)
     end
+
+    exemplo "deve retornar os pontos do jogo perfeito" do
+      Boliche.new([[10],[10],[10],[10],[10],[10],[10],[10],[10],[10],[10]]).pontos.deve == 300
+    end
     
   end
   
