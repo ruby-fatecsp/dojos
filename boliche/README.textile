@@ -79,3 +79,45 @@ p. Correctly calculating bonus points can be difficult, especially when combinat
 
 p. The maximum score in a game of ten-pin is 300. On Feb. 2, 1997, University of Nebraska sophomore Jeremy Sonnenfeld became the first person ever to roll three perfect games of 300 in a three-game series (as approved by the American Bowling Congress).  This has only been achieved a handful of times since.
 
+h1. Scoring: Alternative method
+
+p. There does exist an alternative method for keeping score. It is used by scoreboards at some tournaments, and by some bowling software programs. It is exactly the same as the conventional scoring described above, except that the score is always current (i.e. what the player would have if s/he never knocks down another pin).
+
+p. The basic rules are as follows:
+
+* Spare = Points scored for the next ball are doubled (2 points per pin knocked down);
+* Strike = Points scored for the next *two* balls are doubled (2 points per pin);
+* Two or more strikes in a row = Points scored for the next ball are tripled (3 points per pin). If this roll is not a strike then the next ball is counted with doubled points.
+* If all ten pins are not knocked down, no bonuses are scored on subsequent throws - only actual pinfall.
+
+p. Let's go through a sample game:
+
+Frame 1 = Let's say our bowler leaves a 10-pin and picks up the spare. Score 10.
+
+Frame 2 = Strike. Score 20 (10x2). Total = 30.
+
+Frame 3 = Bowler leaves a 7-10 split and picks up one of the remaining pins. Score 16 on the first ball (8x2) and 2 on the second. Total = 48.
+
+Frame 4 = Bowler throws an errant shot and the ball lands in the gutter, but knocks down all ten pins on the next ball. However, because it is the second ball of the frame only a spare is earned - and because the previous frame was open, all pins count face value. Score 10. Total = 58.
+
+Frame 5 = Bowler leaves a solid 7-pin and picks it up. Score 18 for the first ball (9x2) and 1 for the second. Total = 77.
+
+Frame 6 = Strike. Score 20 (10x2). Total = 97.
+
+Frame 7 = Strike. Score 20 (10x2). Total = 117.
+
+Frame 8 = Strike. Score 30 (10x3) because our bowler was working on a double. Total = 147.
+
+Frame 9 = Strike. Score 30 (10x3). Even though three strikes in a row had been thrown previously, our bowler is still considered to have a double working because the bonuses for the strike in the sixth have expired. Total = 177.
+
+p. The scoring for the tenth frame goes as follows:
+
+* If a spare was earned in the ninth frame, score double on the first ball in the tenth frame and face value (single) for the second and third balls, if there is a third ball.
+* If a strike was earned in the ninth frame, score double on the first two balls in the tenth frame and single on the third ball.
+* If strikes were earned in the 8th and 9th frames (as in our sample), score triple on the first ball in the tenth, double on the second ball, and single on the third.
+* If the ninth frame was open (all 10 pins not down on 2 balls), then all three balls in the tenth count single.
+
+p. Back to our game—Frame 10 = Strike. Score 30 (10x3). Total = 207. As for the two bonus balls, let's say our bowler leaves a 6-10 and picks it up for the spare. Score 16 for the first fill ball (8x2) and 2 for the second.
+
+p. Final score = 225. This game is an illustration of how dramatically a player's score can skyrocket as a result of stringing together several strikes.
+
