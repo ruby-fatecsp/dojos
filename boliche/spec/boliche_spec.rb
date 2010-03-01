@@ -114,7 +114,7 @@ descreva Boliche do
     end
 
     exemplo "deve retornar os pontos do jogo perfeito" do
-      Boliche.new([[10],[10],[10],[10],[10],[10],[10],[10],[10],[10],[10]]).pontos.deve == 300
+      Boliche.new([[10]]*12).pontos.deve == 300
     end
     
   end
